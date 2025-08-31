@@ -1,0 +1,1138 @@
+[
+  {
+    "city": "ABCD",
+    "country": "India"
+  },
+  {
+    "city": "Tamil Nadu",
+    "country": "India"
+  },
+  {
+    "city": "Kerala",
+    "country": "India"
+  },
+  {
+    "city": "Arunachal Pradesh",
+    "country": "India"
+  },
+  {
+    "city": "Kashmir",
+    "country": "India"
+  },
+  {
+    "city": "Shri Tungnath Temple",
+    "country": "India"
+  },
+  {
+    "city": "Kanchipuram",
+    "country": "India"
+  },
+  {
+    "city": "Kumbakonam",
+    "country": "India"
+  },
+  {
+    "city": "Tiruvannamalai",
+    "country": "India"
+  },
+  {
+    "city": "Chettinad",
+    "country": "India"
+  },
+  {
+    "city": "Hogenakkal Falls",
+    "country": "India"
+  },
+  {
+    "city": "Coonoor",
+    "country": "India"
+  },
+  {
+    "city": "Yelagiri Hills",
+    "country": "India"
+  },
+  {
+    "city": "Belur",
+    "country": "India"
+  },
+  {
+    "city": "Halebidu",
+    "country": "India"
+  },
+  {
+    "city": "Shravanabelagola",
+    "country": "India"
+  },
+  {
+    "city": "Murudeshwar",
+    "country": "India"
+  },
+  {
+    "city": "Bandipur National Park",
+    "country": "India"
+  },
+  {
+    "city": "Kabini",
+    "country": "India"
+  },
+  {
+    "city": "Kudremukh",
+    "country": "India"
+  },
+  {
+    "city": "Sringeri",
+    "country": "India"
+  },
+  {
+    "city": "Karwar",
+    "country": "India"
+  },
+  {
+    "city": "Guruvayur",
+    "country": "India"
+  },
+  {
+    "city": "Athirappilly Falls",
+    "country": "India"
+  },
+  {
+    "city": "Kannur",
+    "country": "India"
+  },
+  {
+    "city": "Ashtamudi Lake",
+    "country": "India"
+  },
+  {
+    "city": "Eravikulam National Park",
+    "country": "India"
+  },
+  {
+    "city": "Lepakshi",
+    "country": "India"
+  },
+  {
+    "city": "Srisailam",
+    "country": "India"
+  },
+  {
+    "city": "Maredumilli",
+    "country": "India"
+  },
+  {
+    "city": "Konaseema",
+    "country": "India"
+  },
+  {
+    "city": "Kuntala Falls",
+    "country": "India"
+  },
+  {
+    "city": "Auroville",
+    "country": "India"
+  },
+  {
+    "city": "Shimla",
+    "country": "India"
+  },
+  {
+    "city": "Manali",
+    "country": "India"
+  },
+  {
+    "city": "Dharamshala",
+    "country": "India"
+  },
+  {
+    "city": "Dalhousie",
+    "country": "India"
+  },
+  {
+    "city": "Kasauli",
+    "country": "India"
+  },
+  {
+    "city": "Spiti Valley",
+    "country": "India"
+  },
+  {
+    "city": "Kinnaur",
+    "country": "India"
+  },
+  {
+    "city": "Srinagar",
+    "country": "India"
+  },
+  {
+    "city": "Gulmarg",
+    "country": "India"
+  },
+  {
+    "city": "Pahalgam",
+    "country": "India"
+  },
+  {
+    "city": "Leh",
+    "country": "India"
+  },
+  {
+    "city": "Nubra Valley",
+    "country": "India"
+  },
+  {
+    "city": "Pangong Tso",
+    "country": "India"
+  },
+  {
+    "city": "Jammu",
+    "country": "India"
+  },
+  {
+    "city": "Katra",
+    "country": "India"
+  },
+  {
+    "city": "Dehradun",
+    "country": "India"
+  },
+  {
+    "city": "Mussoorie",
+    "country": "India"
+  },
+  {
+    "city": "Nainital",
+    "country": "India"
+  },
+  {
+    "city": "Rishikesh",
+    "country": "India"
+  },
+  {
+    "city": "Haridwar",
+    "country": "India"
+  },
+  {
+    "city": "Auli",
+    "country": "India"
+  },
+  {
+    "city": "Jim Corbett National Park",
+    "country": "India"
+  },
+  {
+    "city": "Ranikhet",
+    "country": "India"
+  },
+  {
+    "city": "Almora",
+    "country": "India"
+  },
+  {
+    "city": "Badrinath",
+    "country": "India"
+  },
+  {
+    "city": "Kedarnath",
+    "country": "India"
+  },
+  {
+    "city": "Gangotri",
+    "country": "India"
+  },
+  {
+    "city": "Yamunotri",
+    "country": "India"
+  },
+  {
+    "city": "Jaipur",
+    "country": "India"
+  },
+  {
+    "city": "Udaipur",
+    "country": "India"
+  },
+  {
+    "city": "Jodhpur",
+    "country": "India"
+  },
+  {
+    "city": "Jaisalmer",
+    "country": "India"
+  },
+  {
+    "city": "Pushkar",
+    "country": "India"
+  },
+  {
+    "city": "Ajmer",
+    "country": "India"
+  },
+  {
+    "city": "Mount Abu",
+    "country": "India"
+  },
+  {
+    "city": "Ranthambore",
+    "country": "India"
+  },
+  {
+    "city": "Bikaner",
+    "country": "India"
+  },
+  {
+    "city": "Chittorgarh",
+    "country": "India"
+  },
+  {
+    "city": "Bundi",
+    "country": "India"
+  },
+  {
+    "city": "Agra",
+    "country": "India"
+  },
+  {
+    "city": "Varanasi",
+    "country": "India"
+  },
+  {
+    "city": "Lucknow",
+    "country": "India"
+  },
+  {
+    "city": "Prayagraj",
+    "country": "India"
+  },
+  {
+    "city": "Mathura",
+    "country": "India"
+  },
+  {
+    "city": "Vrindavan",
+    "country": "India"
+  },
+  {
+    "city": "Ayodhya",
+    "country": "India"
+  },
+  {
+    "city": "Sarnath",
+    "country": "India"
+  },
+  {
+    "city": "Delhi",
+    "country": "India"
+  },
+  {
+    "city": "Amritsar",
+    "country": "India"
+  },
+  {
+    "city": "Chandigarh",
+    "country": "India"
+  },
+  {
+    "city": "Kolkata",
+    "country": "India"
+  },
+  {
+    "city": "Darjeeling",
+    "country": "India"
+  },
+  {
+    "city": "Kalimpong",
+    "country": "India"
+  },
+  {
+    "city": "Sundarbans",
+    "country": "India"
+  },
+  {
+    "city": "Digha",
+    "country": "India"
+  },
+  {
+    "city": "Shantiniketan",
+    "country": "India"
+  },
+  {
+    "city": "Gangtok",
+    "country": "India"
+  },
+  {
+    "city": "Pelling",
+    "country": "India"
+  },
+  {
+    "city": "Lachung",
+    "country": "India"
+  },
+  {
+    "city": "Guwahati",
+    "country": "India"
+  },
+  {
+    "city": "Kaziranga National Park",
+    "country": "India"
+  },
+  {
+    "city": "Majuli",
+    "country": "India"
+  },
+  {
+    "city": "Shillong",
+    "country": "India"
+  },
+  {
+    "city": "Cherrapunji",
+    "country": "India"
+  },
+  {
+    "city": "Mawlynnong",
+    "country": "India"
+  },
+  {
+    "city": "Dawki",
+    "country": "India"
+  },
+  {
+    "city": "Tawang",
+    "country": "India"
+  },
+  {
+    "city": "Ziro",
+    "country": "India"
+  },
+  {
+    "city": "Kohima",
+    "country": "India"
+  },
+  {
+    "city": "Imphal",
+    "country": "India"
+  },
+  {
+    "city": "Aizawl",
+    "country": "India"
+  },
+  {
+    "city": "Agartala",
+    "country": "India"
+  },
+  {
+    "city": "Bhubaneswar",
+    "country": "India"
+  },
+  {
+    "city": "Puri",
+    "country": "India"
+  },
+  {
+    "city": "Konark",
+    "country": "India"
+  },
+  {
+    "city": "Chilika Lake",
+    "country": "India"
+  },
+  {
+    "city": "Bodh Gaya",
+    "country": "India"
+  },
+  {
+    "city": "Nalanda",
+    "country": "India"
+  },
+  {
+    "city": "Patna",
+    "country": "India"
+  },
+  {
+    "city": "Ranchi",
+    "country": "India"
+  },
+  {
+    "city": "Mumbai",
+    "country": "India"
+  },
+  {
+    "city": "Pune",
+    "country": "India"
+  },
+  {
+    "city": "Lonavala",
+    "country": "India"
+  },
+  {
+    "city": "Mahabaleshwar",
+    "country": "India"
+  },
+  {
+    "city": "Nashik",
+    "country": "India"
+  },
+  {
+    "city": "Aurangabad",
+    "country": "India"
+  },
+  {
+    "city": "Shirdi",
+    "country": "India"
+  },
+  {
+    "city": "Alibaug",
+    "country": "India"
+  },
+  {
+    "city": "Matheran",
+    "country": "India"
+  },
+  {
+    "city": "Tadoba National Park",
+    "country": "India"
+  },
+  {
+    "city": "Panaji",
+    "country": "India"
+  },
+  {
+    "city": "North Goa",
+    "country": "India"
+  },
+  {
+    "city": "South Goa",
+    "country": "India"
+  },
+  {
+    "city": "Ahmedabad",
+    "country": "India"
+  },
+  {
+    "city": "Kutch",
+    "country": "India"
+  },
+  {
+    "city": "Gir National Park",
+    "country": "India"
+  },
+  {
+    "city": "Somnath",
+    "country": "India"
+  },
+  {
+    "city": "Dwarka",
+    "country": "India"
+  },
+  {
+    "city": "Statue of Unity",
+    "country": "India"
+  },
+  {
+    "city": "Bhopal",
+    "country": "India"
+  },
+  {
+    "city": "Indore",
+    "country": "India"
+  },
+  {
+    "city": "Gwalior",
+    "country": "India"
+  },
+  {
+    "city": "Khajuraho",
+    "country": "India"
+  },
+  {
+    "city": "Orchha",
+    "country": "India"
+  },
+  {
+    "city": "Sanchi",
+    "country": "India"
+  },
+  {
+    "city": "Ujjain",
+    "country": "India"
+  },
+  {
+    "city": "Pachmarhi",
+    "country": "India"
+  },
+  {
+    "city": "Bandhavgarh National Park",
+    "country": "India"
+  },
+  {
+    "city": "Kanha National Park",
+    "country": "India"
+  },
+  {
+    "city": "Bengaluru",
+    "country": "India"
+  },
+  {
+    "city": "Mysuru",
+    "country": "India"
+  },
+  {
+    "city": "Hampi",
+    "country": "India"
+  },
+  {
+    "city": "Coorg",
+    "country": "India"
+  },
+  {
+    "city": "Gokarna",
+    "country": "India"
+  },
+  {
+    "city": "Chikmagalur",
+    "country": "India"
+  },
+  {
+    "city": "Badami",
+    "country": "India"
+  },
+  {
+    "city": "Udupi",
+    "country": "India"
+  },
+  {
+    "city": "Hyderabad",
+    "country": "India"
+  },
+  {
+    "city": "Warangal",
+    "country": "India"
+  },
+  {
+    "city": "Tirupati",
+    "country": "India"
+  },
+  {
+    "city": "Visakhapatnam",
+    "country": "India"
+  },
+  {
+    "city": "Araku Valley",
+    "country": "India"
+  },
+  {
+    "city": "Chennai",
+    "country": "India"
+  },
+  {
+    "city": "Mahabalipuram",
+    "country": "India"
+  },
+  {
+    "city": "Kanyakumari",
+    "country": "India"
+  },
+  {
+    "city": "Madurai",
+    "country": "India"
+  },
+  {
+    "city": "Rameswaram",
+    "country": "India"
+  },
+  {
+    "city": "Ooty",
+    "country": "India"
+  },
+  {
+    "city": "Kodaikanal",
+    "country": "India"
+  },
+  {
+    "city": "Thanjavur",
+    "country": "India"
+  },
+  {
+    "city": "Puducherry",
+    "country": "India"
+  },
+  {
+    "city": "Kochi",
+    "country": "India"
+  },
+  {
+    "city": "Munnar",
+    "country": "India"
+  },
+  {
+    "city": "Alleppey",
+    "country": "India"
+  },
+  {
+    "city": "Thekkady",
+    "country": "India"
+  },
+  {
+    "city": "Kovalam",
+    "country": "India"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "country": "India"
+  },
+  {
+    "city": "Wayanad",
+    "country": "India"
+  },
+  {
+    "city": "Kumarakom",
+    "country": "India"
+  },
+  {
+    "city": "Varkala",
+    "country": "India"
+  },
+  {
+    "city": "Port Blair",
+    "country": "India"
+  },
+  {
+    "city": "Havelock Island",
+    "country": "India"
+  },
+  {
+    "city": "Neil Island",
+    "country": "India"
+  },
+  {
+    "city": "Kavaratti",
+    "country": "India"
+  },
+  {
+    "city": "Agatti",
+    "country": "India"
+  },
+  {
+    "city": "Daman",
+    "country": "India"
+  },
+  {
+    "city": "Diu",
+    "country": "India"
+  },
+  {
+    "city": "Jibhi",
+    "country": "India"
+  },
+  {
+    "city": "Tirthan Valley",
+    "country": "India"
+  },
+  {
+    "city": "Kasol",
+    "country": "India"
+  },
+  {
+    "city": "Chitkul",
+    "country": "India"
+  },
+  {
+    "city": "Barot Valley",
+    "country": "India"
+  },
+  {
+    "city": "Munsiyari",
+    "country": "India"
+  },
+  {
+    "city": "Chopta",
+    "country": "India"
+  },
+  {
+    "city": "Harsil",
+    "country": "India"
+  },
+  {
+    "city": "Kausani",
+    "country": "India"
+  },
+  {
+    "city": "Gurez Valley",
+    "country": "India"
+  },
+  {
+    "city": "Aru Valley",
+    "country": "India"
+  },
+  {
+    "city": "Jawai",
+    "country": "India"
+  },
+  {
+    "city": "Mandawa",
+    "country": "India"
+  },
+  {
+    "city": "Dzukou Valley",
+    "country": "India"
+  },
+  {
+    "city": "Ravangla",
+    "country": "India"
+  },
+  {
+    "city": "Laitlum Canyons",
+    "country": "India"
+  },
+  {
+    "city": "Zuluk",
+    "country": "India"
+  },
+  {
+    "city": "Lepchajagat",
+    "country": "India"
+  },
+  {
+    "city": "Bishnupur",
+    "country": "India"
+  },
+  {
+    "city": "Tarkarli",
+    "country": "India"
+  },
+  {
+    "city": "Bhandardara",
+    "country": "India"
+  },
+  {
+    "city": "Kaas Plateau",
+    "country": "India"
+  },
+  {
+    "city": "Divar Island",
+    "country": "India"
+  },
+  {
+    "city": "Agumbe",
+    "country": "India"
+  },
+  {
+    "city": "St. Mary's Islands",
+    "country": "India"
+  },
+  {
+    "city": "Maravanthe",
+    "country": "India"
+  },
+  {
+    "city": "Vagamon",
+    "country": "India"
+  },
+  {
+    "city": "Marari Beach",
+    "country": "India"
+  },
+  {
+    "city": "Bekal",
+    "country": "India"
+  },
+  {
+    "city": "Poovar",
+    "country": "India"
+  },
+  {
+    "city": "Dhanushkodi",
+    "country": "India"
+  },
+  {
+    "city": "Valparai",
+    "country": "India"
+  },
+  {
+    "city": "Kolli Hills",
+    "country": "India"
+  },
+  {
+    "city": "Tranquebar",
+    "country": "India"
+  },
+  {
+    "city": "Gandikota",
+    "country": "India"
+  },
+  {
+    "city": "Bhedaghat",
+    "country": "India"
+  },
+  {
+    "city": "Pachmarhi",
+    "country": "India"
+  },
+  {
+    "city": "Saputara",
+    "country": "India"
+  },
+  {
+    "city": "Polo Forest",
+    "country": "India"
+  },
+  {
+    "city": "Chandipur Beach",
+    "country": "India"
+  },
+  {
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy"
+  },
+  {
+    "city": "Venice",
+    "country": "Italy"
+  },
+  {
+    "city": "New York City",
+    "country": "USA"
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA"
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan"
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia"
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE"
+  },
+  {
+    "city": "Abu Dhabi",
+    "country": "UAE"
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore"
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "city": "Phuket",
+    "country": "Thailand"
+  },
+  {
+    "city": "Krabi",
+    "country": "Thailand"
+  },
+  {
+    "city": "Bali",
+    "country": "Indonesia"
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia"
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China"
+  },
+  {
+    "city": "Shanghai",
+    "country": "China"
+  },
+  {
+    "city": "Beijing",
+    "country": "China"
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  {
+    "city": "Malé",
+    "country": "Maldives"
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal"
+  },
+  {
+    "city": "Paro",
+    "country": "Bhutan"
+  },
+  {
+    "city": "Colombo",
+    "country": "Sri Lanka"
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam"
+  },
+  {
+    "city": "Siem Reap",
+    "country": "Cambodia"
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco"
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa"
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic"
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "city": "Athens",
+    "country": "Greece"
+  },
+  {
+    "city": "Santorini",
+    "country": "Greece"
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "city": "Interlaken",
+    "country": "Switzerland"
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal"
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland"
+  },
+  {
+    "city": "Edinburgh",
+    "country": "Scotland"
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA"
+  },
+  {
+    "city": "Las Vegas",
+    "country": "USA"
+  },
+  {
+    "city": "Miami",
+    "country": "USA"
+  },
+  {
+    "city": "Chicago",
+    "country": "USA"
+  },
+  {
+    "city": "Honolulu",
+    "country": "USA"
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada"
+  },
+  {
+    "city": "Banff",
+    "country": "Canada"
+  },
+  {
+    "city": "Cancun",
+    "country": "Mexico"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "city": "Cusco",
+    "country": "Peru"
+  },
+  {
+    "city": "Lima",
+    "country": "Peru"
+  },
+  {
+    "city": "Queenstown",
+    "country": "New Zealand"
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand"
+  },
+  {
+    "city": "Nadi",
+    "country": "Fiji"
+  }
+]
